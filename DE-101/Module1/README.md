@@ -5,6 +5,6 @@ Module 1 Homework
 
 ## 2.Dashboard in Excel
 Analyzed data, built Pivot tables and sample reports using Lookup
-and in the end сreate dashboard
+and in the end сreated dashboard
 - [Excel-file with data and dashboard](https://github.com/Insomikk/datalearn/blob/main/DE-101/Module1/Sample%20-%20Superstore%20-%20Dashboard.xlsx)
 ![alt text](https://github.com/Insomikk/datalearn/blob/main/DE-101/Module1/Excel%20Dashboard.png "Dashboard")
