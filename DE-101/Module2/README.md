@@ -1,14 +1,14 @@
 Module 2 Homework
 ## 1. SQL queries
-# Install PostgreSQL
-# Install DBeaver
-# Create a connection to PostgreSQL Data in DBeaver
-# Create tables and upload data from [Sample-Superstore-Dashboard](https://github.com/Insomikk/datalearn/blob/main/DE-101/Module1/Sample%20-%20Superstore%20-%20Dashboard.xlsx)
+### Install PostgreSQL
+### Install DBeaver
+### Create a connection to PostgreSQL Data in DBeaver
+### Create tables and upload data from [Sample-Superstore-Dashboard](https://github.com/Insomikk/datalearn/blob/main/DE-101/Module1/Sample%20-%20Superstore%20-%20Dashboard.xlsx)
 - [Orders](https://github.com/Insomikk/datalearn/blob/main/DE-101/Module2/data_transform/SQL_data_questions/orders.sql)
 - [People](https://github.com/Insomikk/datalearn/blob/main/DE-101/Module2/data_transform/SQL_data_questions/people.sql)
 - [Return](https://github.com/Insomikk/datalearn/blob/main/DE-101/Module2/data_transform/SQL_data_questions/returns.sql)
 
-# Run queries
+### Run queries
 - [Queries](https://github.com/Insomikk/datalearn/blob/main/DE-101/Module2/data_transform/SQL_data_questions/questions.sql)
 
 ## 2. Data modelling
