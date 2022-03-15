@@ -22,3 +22,7 @@ Design data model in SQLdbm for initial [Superstore Excel File]
 - Physical model
   
   ![](https://github.com/Insomikk/datalearn/blob/main/DE-101/Module2/Physical%20model.png)
+
+## 3. Dashboard
+### Dashboard example with Google Data Studio connected to PostgreSQL database on AWS Lightsail
+![](https://github.com/Insomikk/datalearn/blob/7568f965f86d554da0bbc410698d1a08c2fc1f51/DE-101/Module2/gdsdashboard.png)
